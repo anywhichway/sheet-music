@@ -1,0 +1,23 @@
+{
+  "name": "@anywhichway/sheet-music",
+  "version": "0.0.1",
+  "description": "A web component for displaying hseet music based on ABC notation",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anywhichway/sheet-music.git"
+  },
+  "keywords": [
+    "Music",
+    "ABC"
+  ],
+  "author": "Simon Y. Blackwell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anywhichway/sheet-music/issues"
+  },
+  "homepage": "https://github.com/anywhichway/sheet-music#readme"
+}
